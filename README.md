@@ -5,7 +5,7 @@
    width="35"/>
 </h1>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About Me**
 🎓 &nbsp;Completed my Diploma and B-Tech in Electrnics and communication engineering.\
 💡 &nbsp;I like to explore new technologies.\
 💻 &nbsp;Fond of gadgets and tech.\
