@@ -1,16 +1,10 @@
-<!--
 <h1 align="center">
-   <b>Hi , Karthik Bhaskaran </b>
+   <b>Hey there! Karthik Bhaskaran</b>
    <img
    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
    width="35"/>
-   <br>
-   <b>An Engineer </b>
 </h1>
 <br>
--->
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! Karthik Bhaskaran</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -18,7 +12,7 @@
 🎓 &nbsp;Completed my Diploma and B-Tech in Electrnics and communication engineering.\
 🌱 &nbsp;I'm on track for learning more about Embedded programming and Linux.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at karthikbhaskaran22@gmail.com!\
+✉️ &nbsp;You can shoot me an email at karthikbhaskaran22@gmail.com!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
