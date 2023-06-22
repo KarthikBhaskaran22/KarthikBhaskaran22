@@ -10,7 +10,7 @@
  
  
  <p>
-    **About me** <br />
+    <h> About me <h/>
     - Completed my Diploma and B-Tech in Electrnics and communication engineering. <br />
     - Currently learning Embedded programming. <br />
  </p>
@@ -24,7 +24,7 @@
  
  <p align="center">
  
-    - **Familiar Languages**:
+   - **Familiar Languages**:
  
    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
