@@ -10,12 +10,9 @@
 <br>
 
 
-<p>
- <h4> About me <h/>
- - Completed my Diploma and B-Tech in Electrnics and communication engineering. </h4>
- - Currently learning Embedded programming. </br>
-</p>
-<br>
+-I like to explore new technologies
+- Completed my Diploma and B-Tech in Electrnics and communication engineering.
+- Currently learning Embedded programming.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -69,16 +66,12 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div>
-
+<p align="center">
 <a href="https://github.com/KarthikBhaskaran22">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<br />
-
+           
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false)
-
+      
 </a>
-
-</div>
+</p>
