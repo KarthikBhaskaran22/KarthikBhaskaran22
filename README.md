@@ -9,6 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;Completed my Diploma and B-Tech in Electrnics and communication engineering.\
 💡 &nbsp;I like to explore new technologies.\
+💻 &nbsp;Fond of gadgets and tech.\
 🌱 &nbsp;I'm on track for learning more about Embedded programming and Linux.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at karthikbhaskaran22@gmail.com!
