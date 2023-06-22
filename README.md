@@ -5,17 +5,15 @@
    width="35"/>
    <br>
    <b>An Engineer </b>
-   <img
-   src="https://giphy.com/embed/3o72FhGxehNdI4Ukc8"width="35"/>
 </h1>
 
 <br>
 
 
 <p>
-<br> About me <h/>
-- Completed my Diploma and B-Tech in Electrnics and communication engineering. </br>
-- Currently learning Embedded programming. </br>
+   <br> About me <h/>
+   - Completed my Diploma and B-Tech in Electrnics and communication engineering. </br>
+   - Currently learning Embedded programming. </br>
 </p>
 <br>
 
