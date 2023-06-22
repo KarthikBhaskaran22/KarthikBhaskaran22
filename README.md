@@ -10,9 +10,9 @@
 
 
 <p align="center">
-   - **About me**:
-   - Completed my Diploma and B-Tech in Electrnics and communication engineering.
-   - Currently learning Embedded programming.
+   **About me**
+   - Completed my Diploma and B-Tech in Electrnics and communication engineering. <br />
+   - Currently learning Embedded programming. <br />
 </p>
 <br>
 
