@@ -4,7 +4,6 @@
    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
    width="35"/>
 </h1>
-<br>
 
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;Completed my Diploma and B-Tech in Electrnics and communication engineering.\
@@ -55,9 +54,6 @@
 ![Visual Studio
 Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
