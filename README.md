@@ -10,7 +10,7 @@
 <br>
 
 
--I like to explore new technologies
+- I like to explore new technologies
 - Completed my Diploma and B-Tech in Electrnics and communication engineering.
 - Currently learning Embedded programming.
 
@@ -61,17 +61,11 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Analytics </b>
 
 <p align="center">
 <a href="https://github.com/KarthikBhaskaran22">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false"/>
-
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)         
-![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false)  
 </a>
 </p>
