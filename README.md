@@ -66,12 +66,15 @@
   
   <a href="https://github.com/KarthikBhaskaran22">
 
-    <img src="https://github-readme-stats.vercel.app/api?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="450"/>
+   ![](https://github-readme-stats.vercel.app/api?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="375"/>
+   <br />
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false" width="375"/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false)
 
+   <br />
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+   
   </a>
   </div>
   
