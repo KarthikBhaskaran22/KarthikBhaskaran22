@@ -10,9 +10,9 @@
  
  
  <p>
-    <h> About me <h/>
-    - Completed my Diploma and B-Tech in Electrnics and communication engineering. <br />
-    - Currently learning Embedded programming. <br />
+    <br> About me <h/>
+    - Completed my Diploma and B-Tech in Electrnics and communication engineering. </br>
+    - Currently learning Embedded programming. </br>
  </p>
  <br>
  
@@ -64,18 +64,21 @@
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
    <br>
- 
+
    ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
- 
+<br>
+
+<div>
+
    <a href="https://github.com/KarthikBhaskaran22">
  
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
- 
-    <br />
- 
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false)
- 
-   </a>
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
    
-   <br>
+      <br />
+   
+      ![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false)
+   
+     </a>
+
+   </div>
  
