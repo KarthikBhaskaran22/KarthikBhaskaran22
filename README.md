@@ -5,7 +5,7 @@
    width="35"/>
 </h1>
 
-## <img src="https://giphy.com/embed/wX67mJXDdh3CB6vn6t" width ="35"><b> About Me</b>
+## <img src="https://giphy.com/gifs/moodman-me-who-you-talking-to-H4Kv4vt6k9d49DHIMO" width ="35"><b> About Me</b>
 🎓 &nbsp;Completed my Diploma and B-Tech in Electrnics and communication engineering.\
 💡 &nbsp;I like to explore new technologies.\
 💻 &nbsp;Fond of gadgets and tech.\
