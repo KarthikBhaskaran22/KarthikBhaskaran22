@@ -63,15 +63,15 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Analytics </b>
 
 <p align="center">
 <a href="https://github.com/KarthikBhaskaran22">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-           
-![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false)
-      
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikBhaskaran22&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)         
+![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikBhaskaran22&theme=radical&hide_border=false)  
 </a>
 </p>
