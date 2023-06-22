@@ -15,7 +15,7 @@
 🎓 &nbsp;Completed my Diploma and B-Tech in Electrnics and communication engineering.\
 🌱 &nbsp;I'm on track for learning more about Embedded programming and Linux.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at karthikbhaskaran22@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at karthikbhaskaran22@gmail.com!\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
