@@ -9,11 +9,15 @@
 
 <br>
 
+### 👨🏻‍💻 &nbsp;About Me
 
-- I like to explore new technologies
-- Completed my Diploma and B-Tech in Electrnics and communication engineering.
-- Currently learning Embedded programming.
+💡 &nbsp;I like to explore new technologies.\
+🎓 &nbsp;Completed my Diploma and B-Tech in Electrnics and communication engineering.\
+🌱 &nbsp;I'm on track for learning more about Embedded programming and Linux.\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at karthikbhaskaran22@gmail.com! I'll try to respond as soon as I can.\
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
