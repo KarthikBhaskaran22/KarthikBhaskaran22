@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">
    <b>Hi , Karthik Bhaskaran </b>
    <img
@@ -6,8 +7,10 @@
    <br>
    <b>An Engineer </b>
 </h1>
-
 <br>
+-->
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! Karthik Bhaskaran</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
