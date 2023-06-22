@@ -5,7 +5,7 @@
    width="35"/>
 </h1>
 
-## <img src="https://giphy.com/gifs/moodman-me-who-you-talking-to-H4Kv4vt6k9d49DHIMO" width ="35"><b> About Me</b>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 🎓 &nbsp;Completed my Diploma and B-Tech in Electrnics and communication engineering.\
 💡 &nbsp;I like to explore new technologies.\
 💻 &nbsp;Fond of gadgets and tech.\
