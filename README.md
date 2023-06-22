@@ -1,14 +1,21 @@
 <h1 align="center">
   <b>Hi , Karthik Bhaskaran </b>
+  <b>An Engineer </b>
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="35"
   />
 </h1>
-
-<br />
-
 <br>
+
+
+<p align="center">
+   - **About me**:
+   - Completed my Diploma and B-Tech in Electrnics and communication engineering.
+   - Currently learning Embedded programming.
+</p>
+<br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -43,7 +50,7 @@
 
   <br>
 
-  - **Softwares and Tools**:
+  - **Tools**:
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
