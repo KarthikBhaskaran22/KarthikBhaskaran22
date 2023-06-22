@@ -8,7 +8,7 @@
 
 <br />
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
 
-   - ** Familiar Languages**:
+   - **Familiar Languages**:
 
   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
