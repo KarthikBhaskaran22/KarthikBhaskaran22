@@ -11,9 +11,9 @@
 
 
 <p>
-   <br> About me <h/>
-   - Completed my Diploma and B-Tech in Electrnics and communication engineering. </br>
-   - Currently learning Embedded programming. </br>
+ <br> About me <h/>
+ - Completed my Diploma and B-Tech in Electrnics and communication engineering. </br>
+ - Currently learning Embedded programming. </br>
 </p>
 <br>
 
