@@ -6,7 +6,7 @@
 </h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About Me**
-🎓 &nbsp;Pursuing Online MBA at Jain University.\
+🎓 &nbsp;Pursuing MBA at Jain University.\
 🎓 &nbsp;Completed B-Tech in Electrnics and communication engineering at Reva University.\
 🎓 &nbsp;Completed Diploma in Electrnics and communication engineering at M S Ramaiah Polytechnic.\
 💡 &nbsp;I like to explore new technologies.\
