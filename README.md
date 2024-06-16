@@ -8,7 +8,7 @@
 🎓 &nbsp;Completed B-Tech in Electronics and Communication Engineering at Reva University.\
 🎓 &nbsp;Completed Diploma in Electronics and Communication Engineering at M S Ramaiah Polytechnic.\
 💡 &nbsp;Passionate about networking and exploring new technologies.\
-💻 &nbsp;Currently working as a Network Engineer at NTT DATA, Inc.\
+💻 &nbsp;Currently working as a Graduate Trainee Engineer at NTT DATA, Inc.\
 🌱 &nbsp;Continuously learning and enhancing skills in network security, cloud solutions, and IT management.\
 💬 &nbsp;Feel free to reach out to me for interesting discussions or networking advice.\
 ✉️ &nbsp;You can contact me at karthikbhaskaran22@gmail.com or karthikbhaskaran22@outlook.com!
